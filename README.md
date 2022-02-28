@@ -1,1 +1,1 @@
- "fisrt day lecture at ALX" 
+ "day zero at ALX school" 
